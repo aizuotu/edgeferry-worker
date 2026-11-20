@@ -157,6 +157,10 @@ npm run preview
 - 遵守 Cloudflare 服务条款、当地法律和目标网站的使用规则；
 - 不建议将本项目用于绕过付费墙、攻击、扫描或未经授权的访问。
 
+## 更多自建记录
+
+更多自托管、本地 AI 与内容工作流部署记录，见 [圈一下](https://www.quanyixia.com/)。
+
 ## License
 
 MIT
