@@ -1,0 +1,14 @@
+{
+  "name": "edgeferry-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "preview": "node scripts/preview.mjs",
+    "check": "node --check _worker.js"
+  },
+  "devDependencies": {
+    "wrangler": "^4.165.0"
+  }
+}

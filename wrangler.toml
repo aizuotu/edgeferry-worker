@@ -1,0 +1,12 @@
+name = "edgeferry-worker"
+main = "_worker.js"
+compatibility_date = "2026-11-20"
+workers_dev = true
+
+[observability]
+enabled = true
+
+[vars]
+SITE_NAME = "EdgeFerry"
+FORCE_PROXY = "false"
+PROXY_PORT = "443"
